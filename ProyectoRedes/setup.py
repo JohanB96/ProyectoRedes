@@ -7,5 +7,5 @@ setup(name='YourAppName',
       author_email='example@example.com',
       url='http://www.python.org/sigs/distutils-sig/',
 #      install_requires=['Django>=1.3'],
-      install_requires=['Flask==0.10.1','psycopg2==2.5.2'],
+      install_requires=['Flask==1.0.0','psycopg2==2.5.2'],
      )
